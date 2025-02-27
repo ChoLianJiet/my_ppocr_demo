@@ -8,7 +8,7 @@ Global:
   save_epoch_step: 3
   eval_batch_step: [0, 2000]
   cal_metric_during_train: true
-  pretrained_model:
+  # pretrained_model:
   checkpoints:
   save_inference_dir:
   use_visualdl: false
